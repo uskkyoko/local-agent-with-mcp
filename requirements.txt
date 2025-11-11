@@ -1,0 +1,14 @@
+# Core dependencies
+langchain-ollama
+langchain-core
+python-dotenv
+
+# MCP Protocol
+mcp
+
+# Data analysis
+pandas
+numpy
+
+# Async support
+asyncio
